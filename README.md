@@ -26,12 +26,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## Project Structure
-resume-shortlister/
+resume-shortlister
 - ├── app.py
 - ├── requirements.txt
 - ├── README.md
-- ├── report/
-- ├── screenshots/
+- ├── report
+- ├── screenshots
 
 ## Output
 Candidate ranking
